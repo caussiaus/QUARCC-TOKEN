@@ -1,7 +1,7 @@
-{
-  "name": "QUARCC",
-  "symbol": "QUARCC",
-  "description": "The official QUARCC Bucks. Powered by the N2 blockchain, augmented with AI, this currency fuels innovation and prosperity among holders.",
-  "image": "https://raw.githubusercontent.com/caussiaus/QUARCC-TOKEN/refs/heads/main/quarcc%20logo%20melanie%20remaster.png",
-  "decimals": 2
-}
+    {
+      "name": "QUARCC",
+      "symbol": "QUARCC",
+      "description": "The official QUARCC Bucks. Powered by the N2 blockchain, augmented with AI, this currency fuels innovation and prosperity among holders.",
+      "image": "https://raw.githubusercontent.com/caussiaus/QUARCC-TOKEN/refs/heads/main/quarcc%20logo%20melanie%20remaster.png",
+      "attributes": []
+    }
